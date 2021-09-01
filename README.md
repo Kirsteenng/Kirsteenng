@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kirsteenng
-- 👀 I’m interested in using Machine Learning to solve business problem especially using Natural Language Processing to solve financial problems.
+- 👀 I’m interested in using Machine Learning to solve business problems.
 - 🌱 I’m currently studying Masters in Data Science in University of Washington.
 - 📫 How to reach me: kirsteenng94@gmail.com.
 
